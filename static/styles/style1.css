@@ -1,0 +1,6 @@
+.nav-bg{
+    background-color: #1A1A1A;
+}
+.navbar-toggler-icon{
+    background-image: url("../Images/list.svg")!important;
+}
